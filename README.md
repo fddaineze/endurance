@@ -1,4 +1,4 @@
-# endurance (Front)
+# Endurance
 
 > A Vue.js project
 
